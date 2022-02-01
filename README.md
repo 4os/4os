@@ -10,7 +10,7 @@
 ][linked.in]
 [<img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 ][twitter]
-[<img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+[<img height="38" width="38" src="https://www.pnglib.com/wp-content/uploads/2021/02/instagram-pink-logo-png_60241adee3e71.png" />
 ][instagram]
 
 
