@@ -32,8 +32,6 @@
 <br />
 <br />
 
-
-:bulb: Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=4os&theme=onedark">
 
 [linked.in]: https://www.linkedin.com/in/aoshn/
