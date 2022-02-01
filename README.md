@@ -8,7 +8,7 @@
 
 ### Social Media:
 
- [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
+ [<img height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 ][linked.in]
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
 ][twitter]
