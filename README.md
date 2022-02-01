@@ -3,6 +3,7 @@
 <br />
 
 ## iOS Developer 
+
 <br />
 
 ### Social Media:
@@ -33,8 +34,7 @@
 
 
 :bulb: Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=4os&theme=onedark
-">
+<img src="https://github-readme-stats.vercel.app/api?username=4os&theme=onedark">
 
 [linked.in]: https://www.linkedin.com/in/aoshn/
 [twitter]: https://twitter.com/4osDeep
