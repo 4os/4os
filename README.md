@@ -10,8 +10,6 @@
 ][linked.in]
 [<img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 ][twitter]
-[<img height="38" width="38" src="https://www.pnglib.com/wp-content/uploads/2021/02/instagram-pink-logo-png_60241adee3e71.png" />
-][instagram]
 
 
 ### Tech I Use;
@@ -33,4 +31,3 @@
 
 [linked.in]: https://www.linkedin.com/in/aoshn/
 [twitter]: https://twitter.com/4osDeep
-[instagram]: https://www.instagram.com/ahmetxyz/
