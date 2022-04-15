@@ -1,8 +1,7 @@
-### Hi there, I'm Ahmet Onur Sahin. :maple_leaf: :herb: 
+### Hi there, I'm Ahmet Onur Sahin :maple_leaf: :herb: 
 
 ### iOS Developer 
 
-  <li>:herb: I am currently learning SwiftUI and UIKit. if u want follow my progress -> <a href="https://twitter.com/ahmetonursh">https://twitter.com/ahmetonursh</a></li>
   <li>:herb: You can reach me; <a href="ahmetonurs@icloud.com">ahmetonurs@icloud.com</a> or <a href="https://twitter.com/ahmetonursh">Twitter</a>.</li>
 
 ### Social Media:
