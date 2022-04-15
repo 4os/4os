@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmet Onur Sahin. :maple_leaf: :herb: 
 
-### Jr. iOS Developer 
+### iOS Developer 
 
   <li>:herb: I am currently learning SwiftUI and UIKit. if u want follow my progress -> <a href="https://twitter.com/ahmetonursh">https://twitter.com/ahmetonursh</a></li>
   <li>:herb: You can reach me; <a href="ahmetonurs@icloud.com">ahmetonurs@icloud.com</a> or <a href="https://twitter.com/ahmetonursh">Twitter</a>.</li>
@@ -30,7 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=4os&theme=tokyonight">
 
 [linked.in]: https://www.linkedin.com/in/aoshn/
-[twitter]: https://twitter.com/4osDeep
+[twitter]: https://twitter.com/ahmetonursh
 [swift]:https://developer.apple.com/swift/
 [swiftui]:https://developer.apple.com/xcode/swiftui/
 [figma]:https://www.figma.com/
